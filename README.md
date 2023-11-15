@@ -1,2 +1,2 @@
 # test-automation-sandbox
-Sandbox for practicing test automation skills!
+Sandbox for practicing test automation skills
